@@ -1,5 +1,9 @@
 # Front End Engineering
 
+## Note 
+
+For a reference to see these goals achieved, please refer to my leetcode account or my portfolio repo! Thanks!
+
 The intent of this repository is to showcase subject matters that I will be learning on a daily basis in order to improve my skills as a Front End Engineer. The intent is to dedicate at least 45 minutes a day per topic.
 
 ## Topic Breakdown
