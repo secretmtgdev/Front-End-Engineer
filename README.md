@@ -81,7 +81,7 @@ Day     Topic
 12/3    Implications of HTTP2 and server-push
 12/6    When to prefetch and preload
 12/9    Reduce browser reflows, promoting an element to GPU
-12/12   Browser layoug, compositing, & painting
+12/12   Browser layout, compositing, & painting
 </pre>
 
 ## System Design
@@ -90,7 +90,7 @@ Day     Topic
 Day     Topic 
 12/15   Rendering - client, server, & universal
 12/18   Layout - building components & consistent markup
-12/21   State management - unidirectional flow, bidirectional glow, passive programming model, reactive programming model
+12/21   State management - unidirectional flow, bidirectional flow, passive programming model, reactive programming model
 12/24   Async flow - XHR calls, bidirectional calls, web sockets
 12/27   Separation of concerns (patterns) - Model-view-controller, Model-view-viewmodel, Model-view-presenter 
 12/30   Multi-device support - web, mobile web, hybrid apps
